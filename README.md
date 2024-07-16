@@ -69,8 +69,7 @@ All workshop materials, including sample code, project templates, and additional
 ## Contact and Support
 If you have any questions or need further assistance, please feel free to reach out to us:
 
-- **Email**: [workshop-support@example.com](mailto:workshop-support@example.com)
-- **Slack**: Join our [Slack channel](#) for real-time support and networking with other participants.
+- **Email**: [workshop-gdsc@bits.com](mailto:gdsc@bits.com)
 
 We hope you enjoy the workshop and find it both informative and inspiring. Happy learning!
 ![image](https://github.com/user-attachments/assets/19fd2d7c-07de-4c68-85e8-a9d4ef5684e8)
